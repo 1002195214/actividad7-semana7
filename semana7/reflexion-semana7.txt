@@ -1,0 +1,10 @@
+La posibilidad de que las comunidades registren y consulten incidencias en una plataforma
+ tecnológica es crucial porque descentraliza la vigilancia del entorno y empodera 
+ directamente a los ciudadanos. Al permitirles reportar problemas en tiempo real, se 
+ eliminan los intermediarios burocráticos y se acelera la visibilidad de fallos en la 
+ infraestructura, la seguridad o los servicios públicos. Asimismo, la opción de consultar 
+ los reportes ya existentes fomenta la transparencia gubernamental, evita la duplicidad de 
+ quejas sobre un mismo problema y permite a los vecinos hacer un seguimiento colectivo de 
+ las soluciones. Esta auditoría social no solo presiona a las autoridades para que actúen
+  con mayor eficacia, sino que también genera datos públicos valiosos para identificar qué 
+  sectores requieren mayor inversión o atención prioritaria.
